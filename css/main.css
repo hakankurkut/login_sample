@@ -1,0 +1,33 @@
+.center-img{
+  display: block;
+  margin: 25px auto;
+}
+
+label-align-right {
+  text-align: right!important;
+}
+
+form button {
+  width: 100%;
+}
+
+h5 {
+  color: #cccc;
+  font-size: 90%;
+  margin-top: 35px;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  margin-top: 30px;
+  background-color: #DFDFDF!important;
+}
+footer a {
+  text-align: center;
+  padding-right: 15px;
+  font-size: 75%;
+}
+footer p {
+  font-size: 65%;
+}
